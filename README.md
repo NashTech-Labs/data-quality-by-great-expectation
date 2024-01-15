@@ -18,3 +18,5 @@
 ## **Great Expectations Dashboard**
 
 If you want to view the **Great Expectations Dashboard** then Navigate to this path **/uncommitted/data_docs/local_site/index.html**
+
+**Index.html file will only generate when you run your checkpoint file**
